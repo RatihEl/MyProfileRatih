@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="_welcome">Welcome</string>
+    <string name="_myProfil">To My Profile</string>
+    <string name="_seemore">See More</string>
+    <string name="_myprofilee">My Profile</string>
+    <string name="_nama">Nama</string>
+    <string name="_ratih">: Ratih Eldina</string>
+    <string name="_lahir">Bron</string>
+    <string name="_lahirBanjar">: Banjarnegara,06 Januari 2003</string>
+    <string name="_alamat">Address</string>
+    <string name="_pucung">: Pucung Sari RT O1 RW 08 \n Sironnge Pandanarum \n Banjarnegara</string>
+    <string name="_hobi">Hobby</string>
+    <string name="_membaca">: Reading</string>
+    <string name="_sekolah">Education</string>
+    <string name="_motto">Motto</string>
+    <string name="_isiMotto">: Include God in Your Every</string>
+    <string name="_namaSekolah">SDN 3 Sirongge \nSMPN 4 SATAP Panadanarum \nSMKN 1 Bawang \nPoliteknik IDN</string>
+    <string name="_foto">foto</string>
+</resources>
